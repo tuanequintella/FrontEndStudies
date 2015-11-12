@@ -1,0 +1,12 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  font-weight: lighter;
+  margin-bottom: 0px !important;
+}
+.title {
+  text-align: right;
+  margin-bottom: 10px;
+}
